@@ -1,4 +1,4 @@
-Olá,
+Olá, fiz esse projeto em parceria com alunos de medicina da UniEvangélica, em Anápolis (GO), com a finalidade de torna a coleta e o processamento dos dados mais rápidos. Sou estudante de Ciência de Dados da UNINTER com RU: 4299010.
 
 Se o usuário rodar o aplicativo direto da pasta Downloads, o banco de dados vai surgir lá. Por isso, a melhor recomendação para colegas e médicos que forem usar o sistema é: "Crie uma pasta chamada 'Geriatria Pro', coloque o executável dentro dela e use o programa a partir dali". Isso mantém o executável e o banco de dados sempre juntos e organizados.
 
